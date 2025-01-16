@@ -60,6 +60,16 @@ Both models were pre-trained on large datasets and fine-tuned on the road sign d
 2. **Mean Average Precision (mAP)**: Evaluates detection accuracy across all classes.
 3. **Class-wise IoU and mAP**: Provides insights into the performance for individual road sign categories.
 
+<img width="697" alt="image" src="https://github.com/user-attachments/assets/084bf10b-8572-4531-aa1e-e9baf627edf9" />
+
+<img width="557" alt="image" src="https://github.com/user-attachments/assets/11f9cfe7-12ce-4edf-9fe8-585c0905b00e" />
+
+
+<img width="694" alt="image" src="https://github.com/user-attachments/assets/02627263-8ba7-4316-b4a8-a0359eeacbdb" />
+
+<img width="565" alt="image" src="https://github.com/user-attachments/assets/acb5fa37-51a7-4cd8-a5c4-840532d0ffa8" />
+
+
 ---
 
 ## Results
